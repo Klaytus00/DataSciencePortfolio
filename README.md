@@ -10,7 +10,7 @@ Projects
 
 
 
-**A project where a model was built to predict house price based on city using Ridge Regressing.**
+**A project where a model was built to predict house price based on city using Ridge Regression.**
 
 
 
