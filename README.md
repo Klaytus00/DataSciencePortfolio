@@ -2,7 +2,7 @@ This repository contains various data science projects focused on predictive mod
 
 Projects
 
-**A project aimed at determining whether sales price are influenced more by property size and/or location.**
+**1. A project aimed at determining whether sales price are influenced more by property size and/or location.**
 
 -Discovering which state has the most expensive real estate market.
 
@@ -10,8 +10,8 @@ Projects
 
 
 
-**A project where a model was built to predict house price based on city using Ridge Regression.**
+**2. A project where a model was built to predict house price based on city using Ridge Regression.**
 
 
 
-**A project where the price of used cars were predicted based on various attributes using Ridge Regression.**
+**3. A project where the price of used cars were predicted based on various attributes using Ridge Regression.**
