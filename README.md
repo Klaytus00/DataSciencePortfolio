@@ -8,6 +8,6 @@ Projects
 
 **3. A project where the price of used cars were predicted based on various attributes using Ridge Regression.**
 
-**4. A project where FIFA World Cup performances and ranking from 1930 to 2022 was analyzed**
+**4. A project where FIFA World Cup performances and ranking from 1930 to 2022 was analyzed.**
 
-**5. A project where  the performance of youTube content types and content editor effectiveness was analyzed**
+**5. A project where  the performance of youTube content types and content editor effectiveness was analyzed.**
