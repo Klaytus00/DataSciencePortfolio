@@ -38,7 +38,7 @@ Predicted used car prices based on attributes like mileage, brand, and year usin
 
 Analyzed match outcomes, goal patterns, manager performance, attendance trends, and team rankings across 90+ years of World Cup data. Also built a model to predict match results.
 
-**Tools:** Python, Pandas, Seaborn, Scikit-learn (Random Forest, Decision Tree)
+**Tools:** Python, Pandas, Seaborn, Scikit-learn, Random Forest
 
 ---
 
@@ -53,4 +53,4 @@ Dug into which video content types perform best by watch time, which editors dri
 
 ## Stack
 
-All projects run in Jupyter Notebook and use the standard Python data stack — Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+All projects run in Jupyter Notebook and use the standard Python data stack; Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
